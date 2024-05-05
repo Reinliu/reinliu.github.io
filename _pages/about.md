@@ -16,6 +16,8 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+---
+
 About:
   I'm currently a Phd candidate at [https://www.sydney.edu.au/engineering/about/our-people/research-students/rein-liu-210.html]University of Sydney in Electrical and Information Engineering. I'm currently exploring neural audio synthesis for sound design applications. Specifically, my research focus is utilizing audio generative models and differentiable digital signal processing methods to create, synthesize, and control sound effects generation. 
 
@@ -30,4 +32,3 @@ Skill sets:
   - Creative audio programming (MAX MSP, C++, Chuck, FAUST)
   - Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD)
 
----
