@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sydney.edu.au/engineering/about/our-people/research-students/rein-liu-210.html'>University of Sydney</a>. 
+# subtitle: <a href='https://www.sydney.edu.au/engineering/about/our-people/research-students/rein-liu-210.html'>University of Sydney</a>. 
 Address: The University of Sydney, Maze Cres, Darlington NSW 2008. 
 Email: yunyi.liu@sydney.edu.au
 
