@@ -23,7 +23,7 @@ About:
 
   Prior to my Phd, I received my B.A. Music and Sound Design at University of Technology Sydney and M.A. Interaction Design and Electronic Arts at University of Sydney. 
 
-  Outside from work, I'm also a performer and teacher in a unique instrument called Theremin. You can find my performances []here.
+  Outside from work, I'm also a performer and teacher in a unique instrument called Theremin. You can find my performances [here](https://www.youtube.com/channel/UCZ4XUd6muK3D88PD2EvB8ow).
 
 
 Skill sets:
