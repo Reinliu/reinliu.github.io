@@ -29,7 +29,6 @@ Outside from work, I'm also a performer and teacher in a unique instrument calle
 
 Skill sets:
   - Audio signal processing, digital signal processing. (Matlab, Python)
-  - Machine learning, deep learning, generative AI. (Python, Pytorch, Tensorflow, AWS, )
+  - Machine learning, deep learning, generative AI. (Python, Pytorch, Tensorflow, AWS)
   - Creative audio programming (MAX MSP, C++, Chuck, FAUST)
   - Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD)
-  
