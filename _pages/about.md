@@ -32,4 +32,4 @@ Skill sets:
   - Machine learning, deep learning, generative AI. (Python, Pytorch, Tensorflow, AWS, )
   - Creative audio programming (MAX MSP, C++, Chuck, FAUST)
   - Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD)
-
+  
