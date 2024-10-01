@@ -1,14 +1,4 @@
-<<<<<<< HEAD
 User-agent: *
 Disallow:
 
 Sitemap: https://reinliu.github.io/sitemap.xml
-=======
----
-permalink: /robots.txt
----
-User-agent: *
-Disallow:
-
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
->>>>>>> master
