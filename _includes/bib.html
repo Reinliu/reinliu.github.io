@@ -1,0 +1,9 @@
+<li>
+    <strong>{{ entry.title }}</strong><br/>
+    {{ entry.author }}.<br/>
+    <em>{{ entry.booktitle }}</em>, {{ entry.year }}.<br/>
+    {% if entry.url %}
+      <a href="{{ entry.url }}" target="_blank">[Link]</a>
+    {% endif %}
+  </li>
+  
