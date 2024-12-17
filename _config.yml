@@ -282,8 +282,8 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-  bibtex_options:
-    include: [url]
+  # bibtex_options:
+  #   include: [url]
 
 
   replace_strings: true
