@@ -282,6 +282,9 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_options:
+    include: [url]
+
 
   replace_strings: true
   join_strings: true
@@ -292,6 +295,7 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
+
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
