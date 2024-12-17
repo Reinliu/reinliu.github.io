@@ -21,7 +21,7 @@ I'm currently a Phd candidate at [University of Sydney](https://www.sydney.edu.a
 
 I come from a highly diverse background. Prior to my Phd, I received my B.A. Music and Sound Design at University of Technology Sydney and M.A. Interaction Design and Electronic Arts at University of Sydney. You can access my [portfolio](https://vimeo.com/reinliu) prior to 2021, when I was a media artist and sound designer. In 2023, I was a research intern at [Dolby Laboratories](https://www.dolby.com/) Advanced Technology Group(ATG) working on DDSP for general audio synthesis and control.
 
-Outside from work, I'm also a performer and teacher in a unique instrument called Theremin. You can find my performances [here](https://www.youtube.com/channel/UCZ4XUd6muK3D88PD2EvB8ow).
+Outside from work, I play and teach the first electronic instrument Theremin. You can find my performances [here](https://www.youtube.com/channel/UCZ4XUd6muK3D88PD2EvB8ow).
 
 Skill sets:
 
