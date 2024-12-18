@@ -21,11 +21,12 @@ I'm currently a Phd candidate at [University of Sydney](https://www.sydney.edu.a
 
 I come from a highly diverse background. Prior to my Phd, I received my B.A. Music and Sound Design at University of Technology Sydney and M.A. Interaction Design and Electronic Arts at University of Sydney. You can access my [portfolio](https://vimeo.com/reinliu) prior to 2021, when I was a media artist and sound designer. In 2023, I was a research intern at [Dolby Laboratories](https://www.dolby.com/) Advanced Technology Group(ATG) working on DDSP for general audio synthesis and control.
 
-Outside from work, I play and teach the first electronic instrument Theremin. You can find my performances [here](https://www.youtube.com/channel/UCZ4XUd6muK3D88PD2EvB8ow).
+Outside from work, I play and teach the first electronic instrument called the Theremin. You can find my performances [here](https://www.youtube.com/channel/UCZ4XUd6muK3D88PD2EvB8ow).
 
 Skill sets:
 
-- Audio signal processing, digital signal processing. (Matlab, Python)
-- Machine learning, deep learning, generative AI. (Python, Pytorch, Tensorflow, AWS)
+- Audio signal processing, digital signal processing. (Matlab, Python, Librosa, Essentia, ffmpeg)
+- Machine learning, deep learning, generative AI, latent space manipulation. (Pytorch, Tensorflow, Keras, Linux, AWS)
 - Creative audio programming (MAX MSP, C++, Chuck, FAUST)
-- Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD)
+- Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD, Unity)
+- Web development and visual programming (Javascript, HTML, P5JS, Processing)
