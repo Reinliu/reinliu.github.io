@@ -21,7 +21,7 @@ I'm a currently research intern at [Dolby Laboratories](https://www.dolby.com/) 
 
 My research interests are:
 
-Machine learning, Deep learning, Generative AI, Controllable Generative Models, Audio Signal Processing, Sound Synthesis and Sound Design, Multi-Modal Large Audio-Language Modeels(MLLM), Human Computer Interaction.
+Machine learning, Deep learning, Generative AI, Controllable Generative Models, Audio Signal Processing, Time Series Prediction, Data Analysis, Sound Synthesis and Sound Design, Multi-Modal Large Audio-Language Modeels(MLLM), Human Computer Interaction.
 
 I come from a highly diverse background. Prior to my Phd, I received my B.A. Music and Sound Design at University of Technology Sydney and M.A. Interaction Design and Electronic Arts at University of Sydney. You can access my [portfolio](https://vimeo.com/reinliu) prior to 2021, when I was a media artist and sound designer. In 2023, I was a research intern at [Dolby Laboratories](https://www.dolby.com/) Advanced Technology Group(ATG) working on DDSP for general audio synthesis and control.
 
@@ -29,7 +29,7 @@ Apart from work, I play and teach the first electronic instrument called the The
 
 Skill sets:
 
-- Machine learning, deep learning, generative AI, large language models(LLM), multi-modal data synthesis. (Python, Pytorch, Tensorflow, Keras, Linux, AWS)
+- Machine learning, deep learning, generative AI, large language models(LLM), multi-modal data synthesis, time series data analysis and synthesis (Python, Pytorch, Tensorflow, Keras, Linux, AWS)
 - Audio signal processing, digital signal processing, spatial audio (Matlab, Python, Librosa, Essentia, ffmpeg)
 - Creative audio programming (MAX MSP, C++, Chuck, FAUST)
 - Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD, Unity)
