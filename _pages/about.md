@@ -29,8 +29,10 @@ Apart from work, I play and teach the first electronic instrument called the The
 
 Skill sets:
 
-- Machine learning, deep learning, generative AI, large language models(LLM), multi-modal data synthesis, time series data analysis and synthesis (Python, Pytorch, Tensorflow, Keras, Linux, AWS)
+- Programming: Python, PyTorch, Tensorflow, Keras, MATLAB, Linux, SQL, Javascript, HTML, MaxMSP
+- Skills: Huggingface, Docker, AWS(S3, EC2), Git, ONNX, Colab, Finetuning (LoRA, PEFT)
+- Knowledge: Large Language Models (LLM), Generative Models (GAN, VAE, Diffusion), Text to Audio Generation, Multi-modal Networks, Controllable Content Generation (Latent Space Mapping, Controlnet), Bayes Theorem, Model Distillation, Digital Signal Processing, Spatial Audio Processing, Realtime Audio Processing.
+
+<!-- 
 - Audio signal processing, digital signal processing, spatial audio (Matlab, Python, Librosa, Essentia, ffmpeg)
-- Creative audio programming (MAX MSP, C++, Chuck, FAUST)
-- Sound design for film and games (Ableton, Pro Tools, Wwise, FMOD, Unity)
-- Web development and visual programming (Javascript, HTML, P5JS, Processing)
+- Creative audio programming (MAX MSP, C++, Chuck, FAUST) -->
