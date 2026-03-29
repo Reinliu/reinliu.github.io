@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a recent Phd Graduate from [University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/research-students/rein-liu-210.html) in Electrical and Information Engineering. My Phd thesis is ‘Towards controllable neural audio synthesis: An exploration of sound effects creation with generative models’. My research focus is improving the controllability of neural audio synthesis models for sound effects creation. Currently I'm a research intern at Sony CSL working on Singing Voice Synthesis. Previously, I'm a research intern at [Dolby Laboratories](https://www.dolby.com/) in Beijing working on text to object-based spatial audio generation with multi-modal large language models (MMLLMs) from 03.2025 to 06.2025. 
+I'm currently working at Microsoft Clipchamp in Sydney as an applied scientist. I am a Phd Graduate from [University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/research-students/rein-liu-210.html) in Electrical and Information Engineering. My Phd thesis is ‘Towards controllable neural audio synthesis: An exploration of sound effects creation with generative models’. My research focus is improving the controllability of neural audio synthesis models for sound effects creation. Currently I'm a research intern at Sony CSL working on Singing Voice Synthesis. Previously, I have previously interned at [Dolby Laboratories](https://www.dolby.com/) in Sydney and Beijing, and Sony CSL.
 
 My research interests are:
 
@@ -30,7 +30,7 @@ Apart from work, I play and teach the first electronic instrument called the The
 Skill sets:
 
 - Programming: Python, PyTorch, Tensorflow, Keras, MATLAB, Linux, SQL, Javascript, HTML, MaxMSP
-- Skills: Huggingface, Docker, AWS(S3, EC2), Git, ONNX, Colab, Finetuning (LoRA, PEFT)
+- Skills: Huggingface, Docker, AzureML, AWS(S3, EC2), Git, ONNX, Colab, Finetuning (LoRA, PEFT)
 - Knowledge: Large Language Models (LLM), Generative Models (GAN, VAE, Diffusion), Text to Audio Generation, Multi-modal Networks, Controllable Content Generation (Latent Space Mapping, Controlnet), Bayes Theorem, Model Distillation, Digital Signal Processing, Spatial Audio Processing, Realtime Audio Processing.
 
 <!-- 
